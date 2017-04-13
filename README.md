@@ -14,6 +14,7 @@ Artworks for Crazy Marvin projects
 + [Party Bot](https://www.poopjournal.rocks/bots/PartyBot/)
 + [Rapid Radio Recorder](https://www.poopjournal.rocks/RapidRadioRecorder/)
 + [Tee Bot](https://www.poopjournal.rocks/bots/TeeBot/)
++ [Telegram Sticker Pack](https://t.me/addstickers/CrazyMarvin)
 + [Troll Bot](https://www.poopjournal.rocks/bots/TrollBot/)
 + [txt](https://www.poopjournal.rocks/txt/)
 + [Viewee](https://www.poopjournal.rocks/Viewee/)
