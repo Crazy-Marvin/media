@@ -12,6 +12,7 @@ Artworks for Crazy Marvin projects
 + [Icon Pack Shitty Pixels](https://www.poopjournal.rocks/ShittyPixels/)
 + [Masterly Ninja Blog](https://masterly.ninja/)
 + [Party Bot](https://www.poopjournal.rocks/bots/PartyBot/)
++ [Poop Journal](https://www.poopjournal.rocks/)
 + [Rapid Radio Recorder](https://www.poopjournal.rocks/RapidRadioRecorder/)
 + [Tee Bot](https://www.poopjournal.rocks/bots/TeeBot/)
 + [Telegram Sticker Pack](https://t.me/addstickers/CrazyMarvin)
