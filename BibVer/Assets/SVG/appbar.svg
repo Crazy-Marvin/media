@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="424 -2 372 92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5b4236;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        filter: url(#appbar);
+      }
+    </style>
+    <filter id="appbar" x="424" y="-2" width="372" height="92" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-2" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <path id="appbar-2" data-name="appbar" class="cls-1" d="M360,0H0V80H360Z" transform="translate(430)"/>
+  </g>
+</svg>

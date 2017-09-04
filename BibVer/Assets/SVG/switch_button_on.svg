@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1584 409 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #795548;
+      }
+
+      .cls-2 {
+        filter: url(#switch_button);
+      }
+    </style>
+    <filter id="switch_button" x="1584" y="409" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-2" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <path id="switch_button-2" data-name="switch_button" class="cls-1" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(1587 410)"/>
+  </g>
+</svg>
