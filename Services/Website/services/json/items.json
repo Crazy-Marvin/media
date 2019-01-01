@@ -1,0 +1,284 @@
+-[
+-   {
+-      "name":"ACRA",
+-      "description":"Application Crash Reports for Android",
+-      "image":"images/acra.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"Baïkal",
+-      "description":"Baïkal is a Cal and CardDAV server that includes an",
+-      "image":"images/baikal.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"bitwarden",
+-      "description":"The easiest and safest way for individuals, teams, and",
+-      "image":"images/bitwarden.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"deepstream",
+-      "description":"a fast, secure and scalable realtime server for mobile",
+-      "image":"images/deepstreamhub.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"DokuWiki",
+-      "description":"DokuWiki is a wiki software.",
+-      "image":"images/dokuwiki.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"ELK",
+-      "description":"Reliably and securely take data from any s",
+-      "image":"images/elk.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"Etherpad",
+-      "description":"highly customizable online editor providing",
+-      "image":"images/etherpad.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"FilePizza",
+-      "description":"P2P file transfers in your browser",
+-      "image":"images/filepizza.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"FreshRSS",
+-      "description":"FreshRSS is a self-hosted RSS feed aggregator",
+-      "image":"images/freshrss.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"Gitea",
+-      "description":"Git Verson Control",
+-      "image":"images/gitea.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"GitLab",
+-      "description":"Git Verson Control",
+-      "image":"images/gitlab.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"Grafana",
+-      "description":"Data visualization & Monitoring with support",
+-      "image":"images/grafana.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"GraphQL",
+-      "description":"GraphQL is a query language for APIs and a runtim",
+-      "image":"images/graphql.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"Graylog",
+-      "description":"Graylog is an open source log management platform.",
+-      "image":"images/graylog.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"Huginn",
+-      "description":"Create agents that monitor and act on your beha",
+-      "image":"images/huginn.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"KanBoard",
+-      "description":"Kanboard is a Kanban project management software.",
+-      "image":"images/kanboard.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"Lychee",
+-      "description":"Self-hosted photo-management done right",
+-      "image":"images/lychee.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"Matomo",
+-      "description":"Web Analytics Revolution",
+-      "image":"images/matomo.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"Mattermost",
+-      "description":"Workplace messaging for web, PCs and pho.",
+-      "image":"images/mattermost.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"MediaWiki",
+-      "description":"MediaWiki is a wiki software.",
+-      "image":"images/mediawiki.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"Memcached",
+-      "description":"Memcached is an in-memory key-value sto.",
+-      "image":"images/memcached.png",
+-      "link":"https://google.com"
+-   },
+-   {
+-      "name":"Miniflux",
+-      "description":"Miniflux is a minimalist RSS reader.",
+-      "image":"images/miniflux.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"Minio",
+-      "description":"Object Storage Server",
+-      "image":"images/minio.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"Mirrors",
+-      "description":"Mirroring various stuff",
+-      "image":"images/mirros.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"MongoDB",
+-      "description":"Document Database",
+-      "image":"images/mongo.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"Nextcloud",
+-      "description":"A safe home for everything",
+-      "image":"images/nextcloud.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"Node.js",
+-      "description":"Javascript runtime",
+-      "image":"images/node.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"NTP Pool",
+-      "description":"Internet cluster of timeservers",
+-      "image":"images/ntp_pool.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"OpenVPN",
+-      "description":"Most Trusted Virtual Private Network",
+-      "image":"images/openvpn.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"Open-Xchange",
+-      "description":"Web-based communication, collaboration and office productivity",
+-      "image":"images/ox.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"Pootle",
+-      "description":"Community localization server",
+-      "image":"images/pootle.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"PrivateBin",
+-      "description":"Minimalist pastebin",
+-      "image":"images/privatebin.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"Prometheus",
+-      "description":"Monitoring system & time series database",
+-      "image":"images/prometheus.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"Realm",
+-      "description":"Object database management system",
+-      "image":"images/realm.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"Redis",
+-      "description":"In-memory data structure store",
+-      "image":"images/redis.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"Rocket.Chat",
+-      "description":"Open Source Team Communication",
+-      "image":"images/rocketchat.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"Searx",
+-      "description":"A privacy-respecting, hackable metasearch engine",
+-      "image":"images/searx.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"selfoss",
+-      "description":"Multipurpose rss reader, live stream, mashup, aggregation web application",
+-      "image":"images/selfoss.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"shaarli",
+-      "description":"The personal, minimalist, super-fast, database free, bookmarking service",
+-      "image":"images/shaarli.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"Syncthing",
+-      "description":"Open Source Continuous File Synchronization",
+-      "image":"images/syncthing.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"TinyTinyRSS",
+-      "description":"Web-based news feed (RSS/Atom) reader and aggregator",
+-      "image":"images/tinytinyrss.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"Tube",
+-      "description":"Easily download videos and sounds from various websites",
+-      "image":"images/tube.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"Unmark",
+-      "description":"To-do application for bookmarks",
+-      "image":"images/unmark.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"wallabag",
+-      "description":"Save and classify articles. Read them later. Freely.",
+-      "image":"images/wallabag.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"Weblate",
+-      "description":"Web-based translation management system supporting continuous translation",
+-      "image":"images/weblate.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"Wekan",
+-      "description":"Kanban board",
+-      "image":"images/wekan.png",
+-      "link":"https://google.com"
+-   }
+-   {
+-      "name":"WireGuard",
+-      "description":"Extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography",
+-      "image":"images/wireguard.png",
+-      "link":"https://google.com"
+-   }
+-]

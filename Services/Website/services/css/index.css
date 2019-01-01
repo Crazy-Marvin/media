@@ -1,0 +1,213 @@
+/*
+  Scarlet - Index.css
+   This be the main stylesheet responsible for
+   most of the custom styles.
+*/
+
+/* Robot Font EVERYWHERE! */
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Toolbar */
+
+#toolbar {
+  position: fixed;
+  top: 0;
+  height: 96px;
+  width: 100%;
+  background-color: #ffffff;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.08), 0 1px 5px 0 rgba(0, 0, 0, 0.06), 0 3px 1px -2px rgba(0, 0, 0, 0.14);
+  z-index: 1;
+}
+
+#profileImage {
+  width: 60px;
+  height: 60px;
+  margin: 18px;
+  margin-left: 0px;
+  margin-right: 0px;
+  display: inline-block;
+}
+
+#name {
+  display: block;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+#description {
+  display: block;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+#toolbarText {
+  display: inline-block;
+  padding-left: 12px;
+  position: absolute;
+  z-index: 100;
+  margin-top: 22px;
+}
+
+#toolbarcontainer {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+/* Social Links */
+
+#socialLinkSection {
+  float: right;
+}
+
+.links {
+  display: inline-block;
+  font-size: 32px;
+  color: #212121;
+  border-radius: 3px;
+  padding: 6px;
+  margin-left: 18px;
+  margin-right: -6px;
+  margin-top: 16px;
+}
+
+.link_icon {
+  font-size: 26px;
+}
+
+/* Cards */
+
+#portfolioColumn {
+  z-index: -1;
+}
+#maincontainer {
+  z-index: 0;
+  position: relative;
+  margin-top: 92px;
+  padding-left: calc(18px - 0.75rem);
+  padding-right: calc(18px - 0.75rem);
+  padding-top: calc(24px - 0.5rem)
+}
+
+.card-main-image, .card-image {
+  border-top-left-radius: 2px !important;
+  border-top-right-radius: 2px !important;
+}
+
+.card-title {
+  font-weight: 500 !important;
+}
+
+.card-blurb {
+  color: rgba(0,0,0,0.54);
+}
+
+.card {
+  border-radius: 2px;
+}
+
+.card-content {
+  border-bottom-left-radius: 2px !important;
+  border-bottom-right-radius: 2px !important;
+  border-top: 1px grey solid;
+}
+
+/* Footer */
+#footercontainer {
+  padding: 18px;
+  padding-top: 0px;
+    
+}
+#footertext {
+  color: #aaa;
+}
+
+#footertext > a {
+  color: #aaa !important;
+  text-decoration: underline;
+}
+
+/* Breakpoint resizing */
+@media only screen and (max-width: 1260px) {
+  #portfolioText {
+    font-size: 2rem;
+    margin-bottom: -20px;
+  }
+  #firstCategoryText {
+    font-size: 1.2rem;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  #portfolioTitle {
+    text-align: center;
+  }
+  #portfolioColumn {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #name {
+    font-size: 20px;
+  }
+  #description {
+    display: none;
+  }
+  #toolbarText {
+    margin-top: 34px;
+  }
+}
+
+/* Colors */
+
+.primary-light {
+  color: #90CAF9;
+}
+
+.primary-normal {
+  color: #2196F3;
+}
+
+.primary-dark {
+  color: #1976D2;
+}
+
+.secondary-light {
+  color: #FFE082;
+}
+
+.secondary-normal {
+  color: #FFC107;
+}
+
+.secondary-dark {
+  color: #FFA000;
+}
+
+.primary-light-b {
+  background-color: #90CAF9;
+}
+
+.primary-normal-b {
+  background-color: #2196F3;
+}
+
+.primary-dark-b {
+  background-color: #1976D2;
+}
+
+.secondary-light-b {
+  background-color: #FFE082;
+}
+
+.secondary-normal-b {
+  background-color: #FFC107;
+}
+
+.secondary-dark-b {
+  background-color: #FFA000;
+}

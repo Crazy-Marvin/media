@@ -1,0 +1,23 @@
+[
+    {
+      "color": "skyblue",
+      "icon": "information",
+      "url": "https://github.com/jacksonhvisuals/scarlet"
+	},
+	    {
+      "color": "skyblue",
+      "icon": "email",
+      "url": "mailto:marvin@poopjournal.rocks"
+	},
+	    {
+      "color": "skyblue",
+      "icon": "github-face",
+      "url": "https://github.com/Crazy-Marvin"
+	},
+    	{
+        "color": "skyblue",
+        "icon": "gavel",
+        "url": "https://poopjournal.rocks/legal/"
+	}
+
+]
