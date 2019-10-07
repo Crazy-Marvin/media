@@ -1,0 +1,101 @@
+<svg width="322" height="322" viewBox="0 0 322 322" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="ic_launcher_circle" clip-path="url(#clip0)">
+<g id="Circle Preview">
+<g id="Clipped Preview Icon" filter="url(#filter0_dd)">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="17" y="17" width="288" height="288">
+<circle id="Circle" cx="161" cy="161" r="144" fill="#FF9800"/>
+</mask>
+<g mask="url(#mask0)">
+<g id="Combined Foreground/Background" filter="url(#filter1_d)">
+<g id="Composite">
+<g id="ic_launcher_background">
+<g id="Frame">
+<path id="Vector" d="M377 -55H-55V377H377V-55Z" fill="#FAA300"/>
+<path id="Vector_2" opacity="0.3" d="M76.4 170.44H-55V151.52H76.4C80.64 112.08 112.12 80.6 151.56 76.36V-55H170.48V76.4C209.92 80.64 241.4 112.12 245.64 151.56H377V170.48H245.6C241.36 209.92 209.88 241.4 170.44 245.64V377H151.52V245.6C112.12 241.36 80.64 209.88 76.4 170.44ZM161 94.8C124.44 94.8 94.8 124.44 94.8 161C94.8 197.56 124.44 227.2 161 227.2C197.56 227.2 227.2 197.56 227.2 161C227.2 124.44 197.56 94.8 161 94.8Z" fill="#BF360C"/>
+</g>
+</g>
+<g id="ic_launcher_foreground" clip-path="url(#clip1)">
+<g id="Plate">
+<path id="Vector_3" d="M377.004 316L192.004 131C171.671 151.5 130.804 192.5 130.004 192.5C129.204 192.5 252.337 315.167 314.004 376.5H377.004V316Z" fill="url(#paint0_linear)"/>
+<g id="Vector_4" filter="url(#filter2_ddii)">
+<path d="M205 161C205 185.309 185.318 205 161.02 205C148.871 205 137.896 200.057 129.919 192.116C121.941 184.175 117 173.155 117 161C117 148.845 121.941 137.866 129.878 129.884C137.815 121.902 148.831 117 160.98 117C173.129 117 184.104 121.943 192.081 129.884C200.059 137.866 205 148.845 205 161Z" fill="#FAFAFA"/>
+</g>
+<g id="Frame_2" clip-path="url(#clip2)">
+<path id="Vector_5" d="M152.602 139V156.341H168.93V139H178.532V183H168.93V164.89H152.602V183.041H143V139H152.602Z" fill="#212121" fill-opacity="0.4"/>
+</g>
+</g>
+<rect id="Finish Layer" x="-55" y="-55" width="432" height="432" fill="url(#paint1_radial)" fill-opacity="0.1"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_dd" x="13" y="17" width="296" height="300" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="8"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="-61" y="-58" width="444" height="444" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="3"/>
+<feGaussianBlur stdDeviation="3"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter2_ddii" x="113" y="117" width="96" height="96" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.74902 0 0 0 0 0.211765 0 0 0 0 0.0470588 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.74902 0 0 0 0 0.211765 0 0 0 0 0.0470588 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect3_innerShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.129412 0 0 0 0 0.129412 0 0 0 0 0.129412 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="effect3_innerShadow" result="effect4_innerShadow"/>
+</filter>
+<linearGradient id="paint0_linear" x1="133" y1="131" x2="339" y2="337" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BF360C" stop-opacity="0.2"/>
+<stop offset="1" stop-color="#BF360C" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(57 56.9999) rotate(45) scale(294.156)">
+<stop stop-color="white"/>
+<stop offset="0.375691" stop-color="white" stop-opacity="0.502762"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0">
+<rect width="322" height="322" fill="white"/>
+</clipPath>
+<clipPath id="clip1">
+<rect width="432" height="432" fill="white" transform="translate(-55 -55)"/>
+</clipPath>
+<clipPath id="clip2">
+<rect width="35.5322" height="44" fill="white" transform="translate(143 139)"/>
+</clipPath>
+</defs>
+</svg>
