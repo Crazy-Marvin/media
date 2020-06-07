@@ -2,3 +2,4 @@
 *.mkv filter=lfs diff=lfs merge=lfs -text
 *.avi filter=lfs diff=lfs merge=lfs -text
 Morse/Assets/Morse_video_SOS.mp4 filter=lfs diff=lfs merge=lfs -text
+Flashy_video_trailer.mp4 filter=lfs diff=lfs merge=lfs -text
