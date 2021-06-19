@@ -1,0 +1,7 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M9.99997 20C13 20 16.0001 18.2222 16 12C15.9999 5.77778 13 4 9.99997 4C6.99991 4 4 5.77778 4 12C4 18.2222 6.99991 20 9.99997 20Z" stroke="black" stroke-width="2"/>
+<circle r="2" transform="matrix(1 0 0 -1 10 10)" stroke="black" stroke-width="2"/>
+<path d="M21 12H19" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M20 17L19 16" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M20 7L19 8" stroke="black" stroke-width="2" stroke-linecap="round"/>
+</svg>
