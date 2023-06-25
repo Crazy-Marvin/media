@@ -1,0 +1,6 @@
+- [Material 3 Design](https://m3.material.io/)
+- [Jetpack Compose](https://developer.android.com/jetpack/compose)
+- No proprietary libaries
+- No tracking and no crash reporting
+- Daily push notifications (user can opt-in and choose the time) (may be done later)
+- [Wear OS support](https://wearos.google.com/) (may be done later)
