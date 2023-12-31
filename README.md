@@ -22,7 +22,6 @@ Artworks for Crazy Marvin projects
 + [Gassi Bot](https://www.poopjournal.rocks/GassiBot/)
 + [Halma](https://halma.app/)
 + [Hunter](https://www.poopjournal.rocks/Hunter/)
-+ [Icon Pack Shitty Pixels](https://www.poopjournal.rocks/ShittyPixels/)
 + [Indebted Colleagues Bot](https://www.poopjournal.rocks/IndebtedColleagues/)
 + [Masterly Ninja Blog](https://masterly.ninja/)
 + [Metadata Remover](https://www.poopjournal.rocks/MetadataRemover/)
