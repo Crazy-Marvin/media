@@ -42,6 +42,7 @@ Other:
 - Feeds Channel
 - [LibreLinkUpDesktop](https://github.com/Crazy-Marvin/LibreLinkUpDesktop)
 - Masterly Ninja Blog
+- [Poop Filter](https://github.com/Crazy-Marvin/PoopFilter)
 - Services
 - [Telegram Stickers](https://github.com/Crazy-Marvin/TelegramStickerPack)
 - Website
